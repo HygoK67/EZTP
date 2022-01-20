@@ -1,0 +1,12 @@
+{
+    "id": "ez_teleportation_plugin",
+    "version": "1.0.0",
+    "name": "EZ TP",
+    "description": "A plugin that allows u to tp to other players",
+    "author": "HygoK67",
+    "link": "",
+    "dependencies": {
+        "mcdreforged": ">=2.0.0-alpha.1",
+        "minecraft_data_api": "*"
+    }
+}
